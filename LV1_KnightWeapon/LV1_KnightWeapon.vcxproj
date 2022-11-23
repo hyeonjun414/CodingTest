@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{44b637b0-44a0-44fb-b16a-c2d40ffbbd76}</ProjectGuid>
-    <RootNamespace>CodingTest</RootNamespace>
+    <ProjectGuid>{70982653-9307-4dc5-af0d-765ccd45f797}</ProjectGuid>
+    <RootNamespace>LV1KnightWeapon</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>LV1_KnightWeapon</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

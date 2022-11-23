@@ -5,20 +5,7 @@
     <projectFile>LV1_FruitShop/LV1_FruitShop.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3314eeb-25fc-46ab-84aa-ed5d4734e0bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CodingTest/FileContentIndex/5cda6a90-6d6b-4598-823f-1cdec1255cd9.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/CodingTest/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/CodingTest/v17/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CodingTest.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest/.vs/CodingTest/FileContentIndex/0cb2b735-d17e-41f9-9051-a1184fdacc79.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest/.vs/CodingTest/FileContentIndex/read.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest/.vs/CodingTest/v17/Browse.VC.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest/CodingTest.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest/CodingTest.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest/CodingTest.vcxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingTest/CodingTest.vcxproj.filters" beforeDir="false" />
-    </list>
+    <list default="true" id="e3314eeb-25fc-46ab-84aa-ed5d4734e0bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669040491406</updated>
       <workItem from="1669040498771" duration="843000" />
-      <workItem from="1669129527388" duration="299000" />
+      <workItem from="1669129527388" duration="367000" />
     </task>
     <servers />
   </component>
